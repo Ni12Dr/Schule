@@ -1,0 +1,6 @@
+print("Hello World 2.0,\n")
+print("Ich heiße Nico Dres, bin 31 Jahre alt und arbeite seit 2019 bei der SWT als IT-Systemelektroniker.")
+print("2010 begann ich meine Ausbildung zum IT-Systemelektroniker und schloss diese 2013 ab.")
+print("Danach arbeitete ich als Planer in der der Systemtechnik bei der Deutschen Telekom.")
+print("Meine Hobbies sind Crossfit, Fussball, reisen, mit Freunden etwas unternehmen, kochen.") 
+print("Ich besitze leider wenig Programmiererfahrung. Letzte Annäherungsversuche ans Programmieren waren in der Berufsschule.")
